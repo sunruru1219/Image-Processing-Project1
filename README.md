@@ -29,3 +29,8 @@ This project showcases fundamental digital image processing algorithms built fro
 * **Language:** MATLAB
 
 ---
+## ⚙️ How to Run
+
+1. Open **MATLAB**.
+2. Load your target test image.
+3. Run the scripts or function files to see the processed results.

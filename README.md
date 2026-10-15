@@ -18,7 +18,7 @@ This project showcases fundamental digital image processing algorithms built fro
 ### 2. Edge Sharpening
 * High-frequency emphasis and derivative-based spatial operators to detect edges, highlight fine image details, and improve overall image clarity.
 
-### 3. Brightness & Contrast Adjustment
+### 3. Brightness Adjustment
 * **Power-Law (Gamma) Transformation:** Adjusts dynamic range to brighten dark regions or dim overly bright highlights non-linearly ($\gamma < 1$ or $\gamma > 1$).
 * **Histogram Equalization:** Enhances global contrast by redistributing pixel intensity frequencies.
 
